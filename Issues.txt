@@ -1,0 +1,26 @@
+1. tl_detector node is not publishing the correct tl stop line index.
+   As a hack, in the waypoint_updater.py, we are trying to stop
+   20 waypoints before the tl stop_line index published by traffic_waypoint
+   topic. This hack needs to be removed and fix needs to be done in tl_detector
+   node.
+
+2. Currently car is not stoping at first red traffic signal.
+   This needs to be fixed.
+>> Fixed. The publish call() has to be made from traffic_cb and not pose_cb,
+   as the variables are shared between these two threads, causing race-around
+   condition.
+
+
+3. Optimization step: Currently inference is happening on all the images.
+   This needs to be modified to perform inference only in the vicinity
+   of the traffic light.
+>> Done. Inference happens only when the car is within 100 waypoints
+   before the traffic signal. However, publish to the traffiic_waypoint
+   topic happens at the rate at which image_raw publishes images.
+
+4. publish() call in the waypoint_updater.py is being called from traffic_cb.
+   Need to check if this call has to be moved to pose_cb.
+>> Not required. See point (2).
+
+5. How to upload the huge model file? Need to check with Udacity.
+>> Currently plan to send zip files. Will add to github later.

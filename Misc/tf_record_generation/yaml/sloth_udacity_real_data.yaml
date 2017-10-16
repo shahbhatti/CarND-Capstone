@@ -1,0 +1,456 @@
+- boxes: []
+  path: nolight/left0190.jpg
+
+- boxes: []
+  path: nolight/left0248.jpg
+
+- boxes: []
+  path: nolight/left0247.jpg
+
+- boxes: []
+  path: nolight/left0249.jpg
+
+- boxes:
+  - {label: Green, x_width: 18.75485956035061, xmin: 647.417752023305, y_height: 55.514384298637935,
+    ymin: 417.6439297524945}
+  label: image
+  path: green/left0000.jpg
+- boxes:
+  - {label: Green, x_width: 19.933736447001365, xmin: 646.5603870148317, y_height: 55.83589617681537,
+    ymin: 417.32241787431707}
+  label: image
+  path: green/left0002.jpg
+- boxes:
+  - {label: Green, x_width: 20.25524832517874, xmin: 646.3460457627134, y_height: 56.264578681052,
+    ymin: 417.32241787431707}
+  label: image
+  path: green/left0007.jpg
+- boxes:
+  - {label: Green, x_width: 20.148077699119654, xmin: 646.3460457627134, y_height: 56.05023742893371,
+    ymin: 417.2152472482579}
+  label: image
+  path: green/left0011.jpg
+- boxes:
+  - {label: Green, x_width: 19.290712690646387, xmin: 647.3105813972458, y_height: 54.442678038046495,
+    ymin: 418.50129476096765}
+  label: image
+  path: green/left0020.jpg
+- boxes:
+  - {label: Green, x_width: 19.505053942764675, xmin: 646.7747282669501, y_height: 56.264578681052,
+    ymin: 418.28695350884936}
+  label: image
+  path: green/left0032.jpg
+- boxes:
+  - {label: Green, x_width: 19.397883316705474, xmin: 643.5596094851757, y_height: 55.72872555075628,
+    ymin: 419.8945128997366}
+  label: image
+  path: green/left0047.jpg
+- boxes:
+  - {label: Green, x_width: 21.219783959711094, xmin: 638.9512725646323, y_height: 59.15818558464895,
+    ymin: 420.6447072821506}
+  label: image
+  path: green/left0062.jpg
+- boxes:
+  - {label: Green, x_width: 21.755637090006758, xmin: 636.0576656610353, y_height: 62.051792488245894,
+    ymin: 419.8945128997366}
+  label: image
+  path: green/left0077.jpg
+- boxes:
+  - {label: Green, x_width: 77.5154341065633, xmin: 142.4704969458594, y_height: 203.298580654482,
+    ymin: 331.7732353311008}
+  label: image
+  path: green/left0265.jpg
+- boxes:
+  - {label: Green, x_width: 71.59411622342307, xmin: 209.21989853762224, y_height: 187.86726738326803,
+    ymin: 343.257003346888}
+  label: image
+  path: green/left0270.jpg
+- boxes:
+  - {label: Green, x_width: 62.80185633633596, xmin: 279.37854375907193, y_height: 174.76859449026085,
+    ymin: 355.81737461415514}
+  label: image
+  path: green/left0276.jpg
+- boxes:
+  - {label: Green, x_width: 60.11034820763592, xmin: 314.36814943217337, y_height: 169.56501210810717,
+    ymin: 359.58548599433533}
+  label: image
+  path: green/left0279.jpg
+- boxes:
+  - {label: Green, x_width: 58.49544333041587, xmin: 348.2811518537948, y_height: 163.1053925992269,
+    ymin: 364.0713328755022}
+  label: image
+  path: green/left0282.jpg
+- boxes:
+  - {label: Green, x_width: 48.626580191848745, xmin: 458.8124190057462, y_height: 141.21445981913263,
+    ymin: 371.96642338635587}
+  label: image
+  path: green/left0294.jpg
+- boxes:
+  - {label: Green, x_width: 45.037902686915345, xmin: 529.5093658529358, y_height: 126.68031592415207,
+    ymin: 383.2707575268963}
+  label: image
+  path: green/left0306.jpg
+- boxes:
+  - {label: Green, x_width: 40.55205580574841, xmin: 563.4223682745574, y_height: 117.70862216181831,
+    ymin: 378.42604289523615}
+  label: image
+  path: green/left0318.jpg
+- boxes:
+  - {label: Green, x_width: 38.57828317803501, xmin: 585.6721688051449, y_height: 113.04334140540482,
+    ymin: 379.68208002196286}
+  label: image
+  path: green/left0333.jpg
+- boxes:
+  - {label: Green, x_width: 35.52790729884157, xmin: 598.4119739476588, y_height: 103.5333460173311,
+    ymin: 391.5247157882433}
+  label: image
+  path: green/left0348.jpg
+- boxes:
+  - {label: Green, x_width: 33.015833045388035, xmin: 607.2042338347459, y_height: 95.81768938172411,
+    ymin: 397.2665997961369}
+  label: image
+  path: green/left0360.jpg
+- boxes:
+  - {label: Green, x_width: 33.01583304538815, xmin: 611.510646840666, y_height: 93.12618125302396,
+    ymin: 400.4964095505771}
+  label: image
+  path: green/left0368.jpg
+- boxes:
+  - {label: Green, x_width: 30.14489104144127, xmin: 614.9198904703529, y_height: 95.09995388073736,
+    ymin: 399.7786740495904}
+  label: image
+  path: green/left0369.jpg
+- boxes:
+  - {label: Green, x_width: 30.324324916687942, xmin: 620.1234728525064, y_height: 91.87014412629725,
+    ymin: 401.7524466773038}
+  label: image
+  path: green/left0378.jpg
+- boxes:
+  - {label: Green, x_width: 55.2656335759757, xmin: 346.66624697657477, y_height: 160.0550167200335,
+    ymin: 362.4564279982821}
+  label: image
+  path: green/left0577.jpg
+- boxes:
+  - {label: Green, x_width: 60.289782082882596, xmin: 299.29570391145273, y_height: 167.59123948039377,
+    ymin: 357.2528456161286}
+  label: image
+  path: green/left0583.jpg
+- boxes:
+  - {label: Green, x_width: 61.36638533436263, xmin: 267.5359079927914, y_height: 173.87142511402737,
+    ymin: 353.4847342359484}
+  label: image
+  path: green/left0589.jpg
+- boxes:
+  - {label: Green, x_width: 63.16072408682936, xmin: 257.4876109789776, y_height: 176.92180099322093,
+    ymin: 355.9968084894018}
+  label: image
+  path: green/left0604.jpg
+- boxes:
+  - {label: Green, x_width: 62.263554710596, xmin: 257.6670448542243, y_height: 173.3331234882874,
+    ymin: 357.6117133666219}
+  label: image
+  path: green/left0613.jpg
+- boxes:
+  - {label: Green, x_width: 62.801856336336016, xmin: 256.4110077274976, y_height: 175.30689611600087,
+    ymin: 355.81737461415514}
+  label: image
+  path: green/left0631.jpg
+- boxes:
+  - {label: Green, x_width: 63.340157962076034, xmin: 256.2315738522509, y_height: 173.51255736353409,
+    ymin: 356.89397786563524}
+  label: image
+  path: green/left0640.jpg
+- boxes:
+  - {label: Green, x_width: 62.263554710596, xmin: 257.4876109789776, y_height: 175.48632999124754,
+    ymin: 356.35567623989516}
+  label: image
+  path: green/left0668.jpg
+- boxes:
+  - {label: Red, x_width: 37.27488077907378, xmin: 526.5415362351484, y_height: 105.14585013951796,
+    ymin: 386.10639218614415}
+  label: image
+  path: red/left0140.jpg
+- boxes:
+  - {label: Red, x_width: 37.816404470779446, xmin: 510.20557153536066, y_height: 111.19286469689797,
+    ymin: 377.26150522161817}
+  label: image
+  path: red/left0144.jpg
+- boxes:
+  - {label: Red, x_width: 40.52402292930782, xmin: 476.7213565982266, y_height: 119.67673586695349,
+    ymin: 377.6225210160886}
+  label: image
+  path: red/left0150.jpg
+- boxes:
+  - {label: Red, x_width: 44.85079722603615, xmin: 443.05663376385735, y_height: 130.1642446963201,
+    ymin: 381.4131868580283}
+  label: image
+  path: red/left0156.jpg
+- boxes:
+  - {label: Red, x_width: 54.211936776654795, xmin: 344.36033079255395, y_height: 154.74581014181285,
+    ymin: 364.4671054655855}
+  label: image
+  path: red/left0168.jpg
+- boxes:
+  - {label: Red, x_width: 59.811291748891506, xmin: 276.53178078796, y_height: 171.416616990972,
+    ymin: 357.9769440204931}
+  label: image
+  path: red/left0173.jpg
+- boxes:
+  - {label: Red, x_width: 62.992743437662284, xmin: 256.9340383851317, y_height: 175.10710094994607,
+    ymin: 355.1772665343747}
+  label: image
+  path: red/left0174.jpg
+- boxes:
+  - {label: Red, x_width: 77.15656635607004, xmin: 140.67615819339287, y_height: 202.04254352775553,
+    ymin: 333.20870633307464}
+  label: image
+  path: red/left0180.jpg
+- boxes:
+  - {label: Red, x_width: 87.92259887087054, xmin: 15.610747146460687, y_height: 227.8810215632767,
+    ymin: 315.44475268365386}
+  label: image
+  path: red/left0186.jpg
+- boxes:
+  - {label: Red, x_width: 85.76939236791046, xmin: 69.62034359570973, y_height: 218.5504600504496,
+    ymin: 323.8781448202476}
+  label: image
+  path: red/left0260.jpg
+- boxes:
+  - {label: Red, x_width: 26.82014501473725, xmin: 640.6110055071365, y_height: 76.23578213019584,
+    ymin: 411.71162943863925}
+  label: image
+  path: red/left0451.jpg
+- boxes:
+  - {label: Red, x_width: 25.4759372693685, xmin: 640.9950648629562, y_height: 77.06791073447164,
+    ymin: 411.8396492239125}
+  label: image
+  path: red/left0452.jpg
+- boxes:
+  - {label: Red, x_width: 25.731976839914978, xmin: 640.8030351850463, y_height: 77.32395030501812,
+    ymin: 411.64761954600266}
+  label: image
+  path: red/left0453.jpg
+- boxes:
+  - {label: Red, x_width: 25.85999662518816, xmin: 641.2511044335025, y_height: 76.1077623449226,
+    ymin: 412.1596986870955}
+  label: image
+  path: red/left0465.jpg
+- boxes:
+  - {label: Red, x_width: 23.747670168180207, xmin: 641.507144004049, y_height: 75.33964363328334,
+    ymin: 412.60776793555175}
+  label: image
+  path: red/left0476.jpg
+- boxes:
+  - {label: Red, x_width: 26.500095551554182, xmin: 641.1230846482293, y_height: 75.53167331119317,
+    ymin: 411.96766900918567}
+  label: image
+  path: red/left0477.jpg
+- boxes:
+  - {label: Red, x_width: 25.41192737673191, xmin: 640.8030351850463, y_height: 77.3879601976547,
+    ymin: 412.2237085797321}
+  label: image
+  path: red/left0489.jpg
+- boxes:
+  - {label: Red, x_width: 26.82014501473725, xmin: 637.7945702311259, y_height: 77.8360294461109,
+    ymin: 412.0316789018223}
+  label: image
+  path: red/left0498.jpg
+- boxes:
+  - {label: Red, x_width: 27.204204370556795, xmin: 634.0819964582029, y_height: 79.75632622520902,
+    ymin: 410.4314315859072}
+  label: image
+  path: red/left0507.jpg
+- boxes:
+  - {label: Red, x_width: 28.420392330652362, xmin: 628.0010566577254, y_height: 84.74909785086419,
+    ymin: 409.2152436258117}
+  label: image
+  path: red/left0516.jpg
+- boxes:
+  - {label: Red, x_width: 31.492867177209405, xmin: 610.0142768268396, y_height: 92.04622561143708,
+    ymin: 402.5582147916048}
+  label: image
+  path: red/left0528.jpg
+- boxes:
+  - {label: Red, x_width: 33.291300860926526, xmin: 589.0584056442475, y_height: 100.4819628724768,
+    ymin: 394.78314308596407}
+  label: image
+  path: red/left0538.jpg
+- boxes:
+  - {label: Red, x_width: 34.906544613724805, xmin: 586.4601716271246, y_height: 100.63964810710252,
+    ymin: 394.5497315430102}
+  label: image
+  path: red/left0539.jpg
+- boxes:
+  - {label: Red, x_width: 33.24432820354741, xmin: 584.0424023032302, y_height: 101.84853276904977,
+    ymin: 391.9808516363724}
+  label: image
+  path: red/left0540.jpg
+- boxes:
+  - {label: Red, x_width: 42.00874200266446, xmin: 531.455919508528, y_height: 125.72400484250647,
+    ymin: 382.0075531753082}
+  label: image
+  path: red/left0558.jpg
+- boxes:
+  - {label: Red, x_width: 50.01242054747746, xmin: 425.041945619783, y_height: 144.56516473774656,
+    ymin: 366.7577506815014}
+  label: image
+  path: red/left0570.jpg
+- boxes:
+  - {label: Red, x_width: 50.01242054747752, xmin: 417.53371963428384, y_height: 147.1103260887632,
+    ymin: 365.9942022761964}
+  label: image
+  path: red/left0571.jpg
+- boxes:
+  - {label: Red, x_width: 51.66677542563832, xmin: 395.5180739479897, y_height: 150.67355198018652,
+    ymin: 363.83081512783224}
+  label: image
+  path: red/left0573.jpg
+- boxes:
+  - {label: Yellow, x_width: 20.949999999999932, xmin: 636.9000000000001, y_height: 63.5,
+    ymin: 420.20000000000005}
+  label: image
+  path: yellow/left0079.jpg
+- boxes:
+  - {label: Yellow, x_width: 22.850000000000023, xmin: 634.85, y_height: 63.5, ymin: 418.05}
+  label: image
+  path: yellow/left0080.jpg
+- boxes:
+  - {label: Yellow, x_width: 22.100000000000023, xmin: 634.95, y_height: 63.05000000000001,
+    ymin: 418.05}
+  label: image
+  path: yellow/left0081.jpg
+- boxes:
+  - {label: Yellow, x_width: 22.950000000000045, xmin: 628.0, y_height: 67.35000000000002,
+    ymin: 414.85}
+  label: image
+  path: yellow/left0091.jpg
+- boxes:
+  - {label: Yellow, x_width: 23.350000000000023, xmin: 626.5500000000001, y_height: 67.40000000000003,
+    ymin: 415.8}
+  label: image
+  path: yellow/left0092.jpg
+- boxes:
+  - {label: Yellow, x_width: 24.94680529065795, xmin: 608.5178780462845, y_height: 75.51012876568285,
+    ymin: 411.8734296309974}
+  label: image
+  path: yellow/left0106.jpg
+- boxes:
+  - {label: Yellow, x_width: 26.621087524930317, xmin: 604.918171242599, y_height: 76.1798416593918,
+    ymin: 411.2874308490021}
+  label: image
+  path: yellow/left0107.jpg
+- boxes:
+  - {label: Yellow, x_width: 29.048796764625195, xmin: 586.8359231124576, y_height: 84.71868105418076,
+    ymin: 405.6785853641897}
+  label: image
+  path: yellow/left0119.jpg
+- boxes:
+  - {label: Yellow, x_width: 28.965082652911633, xmin: 584.7430703196172, y_height: 85.38839394788971,
+    ymin: 405.5948712524761}
+  label: image
+  path: yellow/left0120.jpg
+- boxes:
+  - {label: Yellow, x_width: 29.21622498805243, xmin: 574.5299486905559, y_height: 89.57409953357052,
+    ymin: 402.5811632307859}
+  label: image
+  path: yellow/left0125.jpg
+- boxes:
+  - {label: Yellow, x_width: 31.476506004320186, xmin: 572.8556664562835, y_height: 90.49495476242032,
+    ymin: 401.8277362253633}
+  label: image
+  path: yellow/left0126.jpg
+- boxes:
+  - {label: Yellow, x_width: 32.81593179173797, xmin: 558.9591239118231, y_height: 95.51780146523737,
+    ymin: 397.4746024162552}
+  label: image
+  path: yellow/left0131.jpg
+- boxes:
+  - {label: Yellow, x_width: 34.15535757915586, xmin: 554.8571324378559, y_height: 95.6852296886646,
+    ymin: 396.637461299119}
+  label: image
+  path: yellow/left0132.jpg
+- boxes:
+  - {label: Yellow, x_width: 27.634590000000003, xmin: 629.7306750000007, y_height: 82.90377000000012,
+    ymin: 405.5724000000004}
+  label: image
+  path: yellow/left0394.jpg
+- boxes:
+  - {label: Yellow, x_width: 27.634590000000003, xmin: 631.8181800000007, y_height: 79.82221500000009,
+    ymin: 406.7652600000004}
+  label: image
+  path: yellow/left0395.jpg
+- boxes:
+  - {label: Yellow, x_width: 27.236970000000042, xmin: 632.3152050000007, y_height: 80.41864500000008,
+    ymin: 406.6658550000004}
+  label: image
+  path: yellow/left0396.jpg
+- boxes:
+  - {label: Yellow, x_width: 25.64648999999997, xmin: 639.8699850000007, y_height: 77.73471000000012,
+    ymin: 411.9343200000004}
+  label: image
+  path: yellow/left0409.jpg
+- boxes:
+  - {label: Yellow, x_width: 25.149464999999964, xmin: 640.5658200000007, y_height: 78.33114000000012,
+    ymin: 412.4313450000004}
+  label: image
+  path: yellow/left0410.jpg
+- boxes:
+  - {label: Yellow, x_width: 27.137564999999995, xmin: 641.2616550000007, y_height: 76.04482500000006,
+    ymin: 414.51885000000044}
+  label: image
+  path: yellow/left0422.jpg
+- boxes:
+  - {label: Yellow, x_width: 25.646490000000085, xmin: 642.0568950000006, y_height: 75.15018000000009,
+    ymin: 414.51885000000044}
+  label: image
+  path: yellow/left0423.jpg
+- boxes:
+  - {label: Yellow, x_width: 26.242920000000026, xmin: 640.9634400000007, y_height: 74.65315500000003,
+    ymin: 412.63015500000046}
+  label: image
+  path: yellow/left0435.jpg
+- boxes:
+  - {label: Yellow, x_width: 26.54113499999994, xmin: 641.0628450000007, y_height: 75.24958500000008,
+    ymin: 413.5248000000004}
+  label: image
+  path: yellow/left0436.jpg
+- boxes:
+  - {label: Yellow, x_width: 25.44767999999999, xmin: 641.9574900000007, y_height: 76.2436350000001,
+    ymin: 412.33194000000043}
+  label: image
+  path: yellow/left0444.jpg
+- boxes:
+  - {label: Yellow, x_width: 25.64648999999997, xmin: 640.9634400000007, y_height: 75.74661000000009,
+    ymin: 412.4313450000004}
+  label: image
+  path: yellow/left0445.jpg
+- boxes:
+  - {label: Yellow, x_width: 63.77327775000009, xmin: 256.9152046500005, y_height: 175.34147355000033,
+    ymin: 356.14922805000066}
+  label: image
+  path: yellow/left0700.jpg
+- boxes:
+  - {label: Yellow, x_width: 63.07247250000012, xmin: 257.33568780000047, y_height: 175.76195670000027,
+    ymin: 355.8689059500007}
+  label: image
+  path: yellow/left0703.jpg
+- boxes:
+  - {label: Yellow, x_width: 62.9323114500001, xmin: 257.33568780000047, y_height: 174.08002410000034,
+    ymin: 356.14922805000066}
+  label: image
+  path: yellow/left0704.jpg
+- boxes:
+  - {label: Yellow, x_width: 63.913438800000165, xmin: 256.21439940000045, y_height: 174.6406683000003,
+    ymin: 355.72874490000066}
+  label: image
+  path: yellow/left0706.jpg
+- boxes:
+  - {label: Yellow, x_width: 62.9323114500001, xmin: 257.0553657000005, y_height: 174.0800241000003,
+    ymin: 356.70987225000067}
+  label: image
+  path: yellow/left0707.jpg
+- boxes:
+  - {label: Yellow, x_width: 62.511828300000104, xmin: 257.33568780000047, y_height: 175.90211775000034,
+    ymin: 355.58858385000065}
+  label: image
+  path: yellow/left0708.jpg
